@@ -47,3 +47,44 @@ Create a file named `requirements.txt` with the following content:
 opencv-python
 numpy
 matplotlib
+```
+# ▶️ Running the Project
+Run the Jupyter Notebook:
+```txt
+jupyter notebook Untitled.ipynb
+```
+
+# 📂 Project Structure
+```txt
+.
+├── Untitled.ipynb         # Main notebook (detection + classification pipeline)
+├── requirements.txt       # List of dependencies
+├── output/                # Sample output images
+└── README.md              # Project documentation
+```
+
+# 🔗 References
+
+Dataset: Tomato Maturity Detection and Quality Grading
+
+OpenCV: https://docs.opencv.org/
+
+Matplotlib: https://matplotlib.org/
+
+# 🤝 Contributing
+
+Contributions are welcome! To contribute:
+
+Fork the repository.
+
+Create a new branch: git checkout -b feature/YourFeature.
+
+Commit changes: git commit -m 'Add new feature'.
+
+Push to branch: git push origin feature/YourFeature.
+
+Open a Pull Request.
+
+# 📜 License
+
+This project is licensed under the Apache License.
